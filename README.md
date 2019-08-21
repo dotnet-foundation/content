@@ -11,7 +11,7 @@ Content amplification requests should contain compelling links to content from t
 
 **Content Creation**
 
-Content creation requests are requests for guest blog posts writen for the [.NET Foundation blog](https://dotnetfoundation.org/blog), videos to host on our [YouTube channel](http://www.youtube.com/c/NETFoundation), or content that should be on our website, www.dotnetfoundation.org 
+Content creation requests are requests for guest blog posts writen for the [.NET Foundation blog](https://dotnetfoundation.org/blog), videos to host on our [YouTube channel](http://www.youtube.com/c/NETFoundation), or content that should be on our website, www.dotnetfoundation.org. When a creation request is scheduled it will also be amplified on our social channels.  
 
 To request content for the Newsletter please see the [Newsletter repo](https://github.com/dotnet-foundation/newsletter).
 
