@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Please describe the content.**
-A clear and concise description of what the content is and why it's important. Ex. The .NET Foundation should amplify this content because [...]
+A clear and concise description of what the content is and why it's important to the .NET open source community. Ex. The .NET Foundation should amplify this content because it provides news about a .NET Foundation new project release [...]
 
 **URL of the content**
 Link to the article, blog, video, social post, presentation, etc. 
