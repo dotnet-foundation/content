@@ -7,7 +7,7 @@ There are two types of issues you can choose from
 
 **Content Amplification**
 
-Content amplification requests should contain compelling links to content from the community that we should amplify via the .NET Foundation social channels. These can be articles, blog posts, videos, social posts, presentations, etc. Any content that we should be promoting. 
+Content amplification requests should contain compelling links to content from the community that we should amplify via the .NET Foundation social channels. These can be articles, blog posts, videos on YouTube, social posts, presentations, etc. Any content that we should be promoting. 
 
 **Content Creation**
 
