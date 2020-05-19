@@ -17,4 +17,4 @@ To request content for the Newsletter please see the [Newsletter repo](https://g
 
 To request technical content and presentations see the [dotnet-presentations repo](https://github.com/dotnet-presentations).
 
-To submit issues and bugs for the website, see the [dotnetfoundation-website repo](https://github.com/dotnet-foundation/dotnetfoundation-website).
+To submit issues and bugs for the website, see the [website repo](https://github.com/dotnet-foundation/website).
