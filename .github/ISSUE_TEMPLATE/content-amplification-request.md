@@ -22,7 +22,7 @@ The date you are requesting us to amplify. We will try to hit that if approved.
 **Channel requested**
 Facebook, Twitter
 Note:
-To request content for the Newsletter please see the [Newsletter repo](https://github.com/dotnet-foundation/newsletter)
+To request content for the Newsletter please submit a PR to [this markdown page](https://github.com/dotnet-foundation/website/blob/master/input/blog/posts/_current-newsletter-draft.md)
 To request technical content and presentations see the [dotnet-presentations repo](https://github.com/dotnet-presentations)
 
 **Additional context**
