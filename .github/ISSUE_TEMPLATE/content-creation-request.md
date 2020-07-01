@@ -16,8 +16,7 @@ The date you are targeting to have the content created if approved.
 **Channel requested**
 Blog, Website, YouTube
 Note:
-To submit content for the Newsletter please see the [Newsletter repo](https://github.com/dotnet-foundation/newsletter)
-To submit technical content and presentations see the [dotnet-presentations repo](https://github.com/dotnet-presentations)
+To submit content for the Newsletter please submit a PR to [this markdown page](https://github.com/dotnet-foundation/website/blob/master/input/blog/posts/_current-newsletter-draft.md). To submit technical content and presentations see the [dotnet-presentations repo](https://github.com/dotnet-presentations)
 
 **Additional context**
 Add any other context or screenshots about the request here.
