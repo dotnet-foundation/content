@@ -2,7 +2,7 @@
 This repo is for submitting content for social amplification as well as content creation (i.e. blog, website, social). To get started [submit an issue](https://github.com/dotnet-foundation/content/issues/new/choose). 
 
 There are two types of issues you can choose from
-- Amplification request
+- Amplification request (Newsletter & Socials)
 - Creation request
 
 **Content Amplification**
@@ -13,8 +13,7 @@ Content amplification requests should contain compelling links to content from t
 
 Content creation requests are requests for guest blog posts writen for the [.NET Foundation blog](https://dotnetfoundation.org/blog), videos to host on our [YouTube channel](http://www.youtube.com/c/NETFoundation), or content that should be on our website, www.dotnetfoundation.org. When a creation request is scheduled it will also be amplified on our social channels.  
 
-To request content for the Newsletter please submit a PR to [this markdown page](https://github.com/dotnet-foundation/website/blob/master/input/blog/posts/_current-newsletter-draft.md).
 
 To request technical content and presentations see the [dotnet-presentations repo](https://github.com/dotnet-presentations).
 
-To submit issues and bugs for the website, see the [website repo](https://github.com/dotnet-foundation/website).
+To submit issues and bugs for the website, see the [marketing repo](https://github.com/dotnet-foundation/wg-marketing/issues).
