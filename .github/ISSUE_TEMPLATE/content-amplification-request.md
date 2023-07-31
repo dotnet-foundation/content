@@ -26,8 +26,10 @@ Suggested copy you want to use for the social post. Please keep in mind the chan
 The date you are requesting us to amplify. We will try to hit that if approved. 
 
 **Channel requested**
-Facebook, Twitter, Newsletter (for Members/Sponsors/Projects only)
-
+X/Twitter
+LinkedIn
+Facebook
+Newsletter - for Members/Sponsors/Projects only
 
 **Additional context**
 Add any other context or screenshots about the request here.
