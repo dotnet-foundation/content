@@ -29,7 +29,7 @@ The date you are requesting us to amplify. We will try to hit that if approved.
 X/Twitter
 LinkedIn
 Facebook
-Newsletter - for Members/Sponsors/Projects only
+Newsletter - Published last day of the month for Members/Sponsors/Projects
 
 **Additional context**
 Add any other context or screenshots about the request here.
