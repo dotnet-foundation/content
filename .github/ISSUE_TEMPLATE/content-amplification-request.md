@@ -20,7 +20,7 @@ A clear and concise description of what the content is and why it's important to
 Link to the article, blog, video, social post, presentation, etc. 
 
 **Copy for the content**
-Suggested copy you want to use for the social post. Please keep in mind the channel limitations (i.e. Twitter 280 characters)
+Suggested copy you want to use for the social post. Please keep in mind the channel limitations (i.e. x/Twitter 280 characters)
 
 **Date requested**
 The date you are requesting us to amplify. We will try to hit that if approved. 
@@ -29,7 +29,7 @@ The date you are requesting us to amplify. We will try to hit that if approved.
 X/Twitter
 LinkedIn
 Facebook
-Newsletter - Published last day of the month for Members/Sponsors/Projects
+
 
 **Additional context**
 Add any other context or screenshots about the request here.
